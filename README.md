@@ -2,7 +2,7 @@
 
 A template for setting up a supabase flutter app quickly
 
-_requires a .env file to connect to supabase api_
+_requires a "dotnet" file to connect to supabase api_
 
 # Renaming
 
